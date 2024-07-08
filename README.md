@@ -1,1 +1,1 @@
-# JS_Homework_S3
+# Домашнее задание к семинару 3. JavaScript
