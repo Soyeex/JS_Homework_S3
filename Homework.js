@@ -68,7 +68,3 @@ const divFunction = (div1, div2) => console.log(`Частное чисел ра�
 let div1 = +prompt('Введи первое число');
 let div2 = +prompt('Введи второе число');
 divFunction(div1, div2);
-
-const name = (params) => {
-    
-}
